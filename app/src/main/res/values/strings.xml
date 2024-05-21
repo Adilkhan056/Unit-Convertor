@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UNIT CONVERTER</string>
+    <string name="text1">Enter your value in grams</string>
+    <string name="text2">Enter your value in length</string>
+    <string name="text3">Enter your value in celsius</string>
+    <string name="text4">Enter your value in liters</string>
+</resources>
